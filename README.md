@@ -30,10 +30,3 @@ The goal is to bring structured learning, hands-on assignments, progress trackin
 This public repository is a limited portfolio showcase, not a release of the complete commercial application. A small, sanitized example is included in the `showcase/` directory to demonstrate component design and implementation approach. The complete application, course content, backend logic, and integrations remain private because they represent substantial original work.
 
 All rights are reserved. This showcase does not grant permission to copy, redistribute, modify, or incorporate its code into another product without prior written permission. No production credentials, API keys, student records, or live environment files are intentionally included. The example is adapted for public review and is not a complete, production-ready application.
-
-
-## Source Code & Intellectual Property Notice
-
-This public repository is a limited portfolio showcase, not a release of the complete commercial application. Selected examples are provided to demonstrate project structure, implementation approach, and development work. Significant proprietary workflows, full application source, backend logic, and integrations are intentionally kept private because these products represent substantial original work developed for commercial use.
-
-All rights are reserved. This showcase does not grant permission to copy, redistribute, modify, or incorporate its code into another product without prior written permission. No production credentials, API keys, customer records, or live environment files are intentionally included. Some examples are sanitized or adapted for public review and may omit private dependencies; they are not a complete, production-ready application.
