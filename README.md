@@ -25,6 +25,10 @@ The application is built with Next.js, React, TypeScript, and Supabase, with Ant
 
 The goal is to bring structured learning, hands-on assignments, progress tracking, and AI feedback into one place, making a coding bootcamp easier to follow and manage.
 
+## Source Showcase
+
+A small, adapted TypeScript component demonstrates a learning-progress card and typed status handling: [View the code sample](showcase/WeekCard.tsx).
+
 ## Source Code & Intellectual Property Notice
 
 This public repository is a limited portfolio showcase, not a release of the complete commercial application. A small, sanitized example is included in the `showcase/` directory to demonstrate component design and implementation approach. The complete application, course content, backend logic, and integrations remain private because they represent substantial original work.
